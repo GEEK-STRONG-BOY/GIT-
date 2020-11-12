@@ -39,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605171955679</updated>
-      <workItem from="1605171957023" duration="1367000" />
+      <workItem from="1605171957023" duration="1558000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1605173496968</created>
@@ -63,17 +63,17 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="297" y="18" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1605173521630" />
-    <state x="144" y="79" key="MergeDialog" timestamp="1605171996087">
+    <state x="144" y="79" key="MergeDialog" timestamp="1605175759354">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="144" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1605171996087" />
-    <state x="358" y="218" key="MultipleFileMergeDialog" timestamp="1605171996167">
+    <state x="144" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1605175759354" />
+    <state x="358" y="218" key="MultipleFileMergeDialog" timestamp="1605175759409">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="358" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1605171996167" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605173501755">
+    <state x="358" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1605175759409" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605175838480">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605173501755" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605175838480" />
   </component>
 </project>
