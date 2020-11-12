@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="795862fc-4354-45cb-89aa-215ec646399e" name="Default Changelist" comment="" />
+    <list default="true" id="795862fc-4354-45cb-89aa-215ec646399e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605171955679</updated>
-      <workItem from="1605171957023" duration="1681000" />
+      <workItem from="1605171957023" duration="2102000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1605173496968</created>
@@ -69,9 +71,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="358" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1605175759409" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605175838480">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605176144493">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605175838480" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605176144493" />
   </component>
 </project>
